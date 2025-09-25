@@ -273,7 +273,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1229286792}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1626848581}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -363,7 +363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 989097811}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1734782264}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -797,7 +797,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1823959776}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 907973776}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -1001,7 +1001,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 529286288}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1625404832}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -1159,7 +1159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1488917727}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 239574747}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -1249,7 +1249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 483475509}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 436737740}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -1454,7 +1454,7 @@ PrefabInstance:
     - target: {fileID: 333827259996945589, guid: 8c6ec044777678444ad9077ee0d265ac,
         type: 3}
       propertyPath: m_Name
-      value: m350_v1
+      value: M350
       objectReference: {fileID: 0}
     - target: {fileID: 333827259996945589, guid: 8c6ec044777678444ad9077ee0d265ac,
         type: 3}
@@ -2184,7 +2184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1870076737}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 282460848}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -2446,7 +2446,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1518997141}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 736552417}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -2536,7 +2536,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 483475509}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 436737740}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -2660,7 +2660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 415976543}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1304465903}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -3128,7 +3128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 756351327}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1717605817}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -3565,7 +3565,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 537331378}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 55816096}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -3655,7 +3655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1333603339}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 2086689060}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -3745,7 +3745,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 2062636374}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1842174337}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -3835,7 +3835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1109750232}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1711848095}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -4011,7 +4011,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 513759449}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1794351444}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -4620,7 +4620,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1333603339}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 2086689060}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -5828,7 +5828,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1548724553}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 424667108}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -6372,7 +6372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 622722079}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 532717975}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -6566,7 +6566,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 178408167}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 2025078411}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -6656,7 +6656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 537331378}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 55816096}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -6832,7 +6832,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1662590246}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1429226186}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -6922,7 +6922,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 989097811}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1734782264}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -7012,7 +7012,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 178408167}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 2025078411}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -7102,7 +7102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 555364818}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1896949786}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -9403,7 +9403,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 330639904}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1326651706}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -10372,7 +10372,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1751181307}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1161160530}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -10548,7 +10548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 622722079}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 532717975}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -10724,7 +10724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 330639904}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1326651706}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -10814,7 +10814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1933488043}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1584126679}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -11249,7 +11249,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1830553892}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1343367757}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -11511,7 +11511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1703102101}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1714073400}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -11635,7 +11635,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1370131057}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1305417435}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -12797,7 +12797,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1370131057}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1305417435}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -13633,7 +13633,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1933488043}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1584126679}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -13723,7 +13723,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 756351327}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1717605817}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -14246,7 +14246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1518997141}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 736552417}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -14502,7 +14502,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 529286288}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1625404832}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -14592,7 +14592,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1703102101}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1714073400}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -15775,7 +15775,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1075160055}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1258169137}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -15865,7 +15865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 878951923}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 945721358}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16041,7 +16041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1830553892}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1343367757}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16251,7 +16251,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 555364818}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1896949786}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16341,7 +16341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1322511932}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1500251750}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16431,7 +16431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 2022646975}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1978480263}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16607,7 +16607,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1870528799}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 677822532}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -16924,7 +16924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 2022646975}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1978480263}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -17499,7 +17499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1870528799}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 677822532}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -17709,7 +17709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1823959776}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 907973776}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -18112,7 +18112,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 513759449}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1794351444}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -18202,7 +18202,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1751181307}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1161160530}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -18464,7 +18464,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 2062636374}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1842174337}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -18640,7 +18640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1322511932}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1500251750}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -18988,7 +18988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1229286792}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1626848581}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -19305,7 +19305,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1052230790}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 388899948}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -19515,7 +19515,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1052230790}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 388899948}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -20781,7 +20781,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1870076737}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 282460848}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -21218,7 +21218,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 878951923}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 945721358}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -22140,7 +22140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1662590246}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1429226186}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -22230,7 +22230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1548724553}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 424667108}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -23032,7 +23032,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1109750232}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1711848095}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -23435,7 +23435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 415976543}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1304465903}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -23525,7 +23525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1488917727}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 239574747}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -23754,7 +23754,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1703949646}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1500217580}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -24243,7 +24243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1703949646}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1500217580}
   VolumeMesh: {fileID: 0}
   Volume: 0
@@ -25116,7 +25116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ConnectedArticulationBody: {fileID: 0}
   ConnectedRigidbody: {fileID: 1075160055}
-  MaxWaterQueryFrequency: 50
+  WaterQueryFrequency: -1
   VolumeObject: {fileID: 1258169137}
   VolumeMesh: {fileID: 0}
   Volume: 0

@@ -26576,6 +26576,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DjuroWorld
       objectReference: {fileID: 0}
+    - target: {fileID: 1715798938044736141, guid: 995261b61a1d78c40967c0643f06344c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6210041657015063111, guid: 995261b61a1d78c40967c0643f06344c,
         type: 3}
       propertyPath: m_LocalPosition.x
